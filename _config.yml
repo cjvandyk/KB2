@@ -13,7 +13,7 @@ name                     : &name "Cornelius J. van Dyk"
 description              : &description "M365 Expert with 9 Microsoft MVP awards."
 url                      : https://cjvandyk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "cjvandyk/kb2.github.io"
+repository               : "kb2/cjvandyk.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
